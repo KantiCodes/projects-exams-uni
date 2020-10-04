@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ParallelMapReduce", "ParallelMapReduce\ParallelMapReduce.fsproj", "{EDC481C5-B1D6-4731-841D-61F2D3393C6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDC481C5-B1D6-4731-841D-61F2D3393C6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC481C5-B1D6-4731-841D-61F2D3393C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC481C5-B1D6-4731-841D-61F2D3393C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC481C5-B1D6-4731-841D-61F2D3393C6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DE6165F-42C3-4C5C-BAF1-941C7B6EA3DC}
+	EndGlobalSection
+EndGlobal
